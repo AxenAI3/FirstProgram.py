@@ -1,5 +1,6 @@
 # FirstProgram.py
 My first Python program – learning print, variables, and output basics.
+
 Print("Hello World")
 Here is print is the name of function in python, This command print the word on the screen and this is called output.
 
