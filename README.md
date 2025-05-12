@@ -1,4 +1,4 @@
-# FirstProgram.py
+# FirstPythonProgram
 My first Python program – learning print, variables, and output basics.
 
 Print("Hello World")
